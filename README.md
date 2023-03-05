@@ -1,2 +1,2 @@
 # kussner-wagner
-Kussner Wagner algorithm for gust analysis 
+Kussner and Wagner functions algorithm for gust analysis 
